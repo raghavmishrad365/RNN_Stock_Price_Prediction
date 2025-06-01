@@ -68,13 +68,12 @@ These findings emphasize the importance of **empirical model evaluation** over a
 ## 📁 Repository Structure
 
 ```bash
-📦stock-price-rnn
- ┣ 📊 data/
+📦RNN_Stocks_Data/
  ┃ ┣ AMZN.csv
  ┃ ┣ GOOGL.csv
  ┃ ┣ IBM.csv
  ┃ ┗ MSFT.csv
- ┣ 📓 RNN_Assg_Stock_Price_Prediction_Starter.ipynb
+ ┣ 📓 RNN_Assg_Stock_Price_Prediction_RaghavMishra_MuthuvadivelB.ipynb
  ┗ 📄 README.md
 
 
